@@ -1,0 +1,84 @@
+item.impureClumpOfLight.name=Impure Clump of Light
+item.pureClumpOfLight.name=Pure Clump of Light
+item.impureLightIngot.name=Impure Ingot of Light
+item.pureLightIngot.name=Pure Ingot of Light
+item.stickOfLight.name=Stick of Light
+item.blankCrystal.name=Blank Crystal
+item.diamondClump.name=Diamond Clump
+item.upgradeCrystalLightHelm.name=Upgrade Crystal
+item.upgradeCrystalLightChestplate.name=Upgrade Crystal
+item.upgradeCrystalLightLeggings.name=Upgrade Crystal
+item.upgradeCrystalLightBoots.name=Upgrade Crystal
+item.upgradeCrystalLightSword.name=Upgrade Crystal
+
+item.mysticLightSword.name=Mystic Sword of Light
+item.mysticLightHelm.name=Mystic Light Helm
+item.mysticLightChestplate.name=Mystic Light Chestplate
+item.mysticLightLeggings.name=Mystic Light Leggings
+item.mysticLightBoots.name=Mystic Light Boots
+
+item.impureMysticLightSword.name=Mystic Sword of Light
+item.impureMysticLightHelm.name=Mystic Light Helm
+item.impureMysticLightChestplate.name=Mystic Light Chestplate
+item.impureMysticLightLeggings.name=Mystic Light Leggings
+item.impureMysticLightBoots.name=Mystic Light Boots
+
+item.mysticDarkHelm.name=
+item.mysticDarkChestplate.name=
+item.mysticDarkLeggings.name=
+item.mysticDarkBoots.name=
+
+item.impureMysticHelm.name=
+item.impureMysticChestplate.name=
+item.impureMysticLeggings.name=
+item.impureMysticBoots.name=
+
+item.mysticLightAxe.name=Mystic Light Axe
+item.mysticLightPickaxe.name=Mystic Light Pickaxe
+item.mysticLightShovel.name=Mystic Light Shovel
+
+item.impureMysticLightAxe.name=Mystic Light Axe
+item.impureMysticLightPickaxe.name=Mystic Light Pickaxe
+item.impureMysticLightShovel.name=Mystic Light Shovel
+
+tooltip.item.stickOfLight.desc.0=Works for both impure and pure items.
+tooltip.item.blankCrystal.desc.0=A crafting material for upgrades.
+tooltip.item.diamondClump.desc.0=A crafting material for upgrades.
+
+tooltip.item.pureClumpOfLight.desc.0=A pure clump of light.
+tooltip.item.pureLightIngot.desc.0=A pure ingot of light.
+tooltip.item.impureClumpOfLight.desc.0=An impure clump of light.
+tooltip.item.impureLightIngot.desc.0=An impure ingot of light.
+
+tooltip.pure=Pure
+tooltip.item.mysticLightHelm.desc.0=The power of light is awfully blinding,
+tooltip.item.mysticLightHelm.desc.1=but provides sight during darkness.
+tooltip.item.mysticLightChestplate.desc.0=The powers of light tend to form experience
+tooltip.item.mysticLightChestplate.desc.1=by the levels every once in a while.
+tooltip.item.mysticLightLeggings.desc.0=The speed of light is with you.
+tooltip.item.mysticLightBoots.desc.0=Light shouldn't have a mass...
+tooltip.item.mysticLightBoots.desc.1=but these are quite light!
+tooltip.item.mysticLightSword.desc.0=Magical light empowers this sword
+tooltip.item.mysticLightSword.desc.1=to be enchanted beyond gold,
+tooltip.item.mysticLightSword.desc.2=with each enchantment being
+tooltip.item.mysticLightSword.desc.3=stronger than their counterpart.
+tooltip.item.mysticLightTool.desc.0=Something is oddly...invigorating.
+tooltip.item.upgradeCrystal.desc.0=A magical crystal of purification.
+tooltip.item.upgradeCrystalLightHelm.desc.0=Helm
+tooltip.item.upgradeCrystalLightChestplate.desc.0=Chestplate
+tooltip.item.upgradeCrystalLightLeggings.desc.0=Leggings
+tooltip.item.upgradeCrystalLightBoots.desc.0=Boots
+tooltip.item.upgradeCrystalLightSword.desc.0=Sword
+
+tooltip.impure=Impure
+tooltip.item.impureMysticLightHelm.desc.0=This helm longs to be purified...
+tooltip.item.impureMysticLightChestplate.desc.0=This chestplate longs to be purified...
+tooltip.item.impureMysticLightLeggings.desc.0=These leggings long to be purified...
+tooltip.item.impureMysticLightBoots.desc.0=These boots long to be purified...
+tooltip.item.impureMysticLightSword.desc.0=This sword longs to be purified...
+tooltip.item.impureMysticTool.desc.0=I await purification.
+
+msg.randomchestplate.txt.0=*You feel an odd surge of strength from your chestplate*
+msg.randomchestplate.txt.1=+1 xp level | +30 seconds resist I
+
+itemGroup.mysticCreativeTab=Mystic

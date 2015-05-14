@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MathMagicianMod",
+  "name": "Math Magician",
+  "description": "Mixing some math with magic to create awesome things!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Siioh"],
+  "credits": "Siioh for the coding, Siioh for the textures, and of course Siioh for the support.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
